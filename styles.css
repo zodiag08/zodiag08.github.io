@@ -11,7 +11,7 @@ body{
 }
 @media screen and (max-width:767px) {
     body{
-        background-size: 4000%;
+        background-size: 5000%;
     }
 }
 .welcome{
